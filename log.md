@@ -7,14 +7,14 @@
 **Thoughts:** The outline is there in my head. It is hard trying to keep it all organized.
 
 **Link to work:** http://codepen.io/Doveymd/full/PbMWgo
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: Jan 3 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**:Set aside the Aaron project for a faster one. Today, we mastered the image.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: Image hosting can be a nightmare. I am glad I finally firgured out, it a way that I might be able to manipulate to last me long into my career.
+
+**Link(s) to work**:http://codepen.io/Doveymd/pen/OWJoVG
 
 
 ### Day 1: June 27, Monday
