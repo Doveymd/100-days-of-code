@@ -17,12 +17,10 @@
 **Link(s) to work**:http://codepen.io/Doveymd/pen/OWJoVG
 
 
-### Day 1: June 27, Monday
+### Day3:Jan 4 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Grid, Background and text colors figured out (mostly)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Wow... that is call I can say. It took a little research but I got there. I am gaining confidence, so I guess, that is a plus.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**:http://codepen.io/Doveymd/full/OWJoVG/
