@@ -24,3 +24,12 @@
 **Thoughts** Wow... that is call I can say. It took a little research but I got there. I am gaining confidence, so I guess, that is a plus.
 
 **Link(s) to work**:http://codepen.io/Doveymd/full/OWJoVG/
+
+
+### Day4:Jan 8 2017
+
+**Today's Progress**:Put the finishing touches on project today
+
+**Thoughts**I finished my first project only to find my next on ready. So, tomorrow, we shall make a portfolio. 
+
+**Link(s) to work**:http://codepen.io/Doveymd/full/OWJoVG/
