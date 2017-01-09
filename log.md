@@ -33,3 +33,11 @@
 **Thoughts**I finished my first project only to find my next on ready. So, tomorrow, we shall make a portfolio. 
 
 **Link(s) to work**:http://codepen.io/Doveymd/full/OWJoVG/
+
+Day5:Jan 8 2017
+
+Today's Progress: Started the portfolio. It is just the basic layout. 
+
+Thoughts I look forward to tackling each section at a time. My goal is to finish on section each day at least (Hopefully more).
+
+Link(s) to work:http://codepen.io/Doveymd/full/OWJoVG/
