@@ -34,10 +34,19 @@
 
 **Link(s) to work**:http://codepen.io/Doveymd/full/OWJoVG/
 
-Day5:Jan 8 2017
+### Day5:Jan 8 2017
 
-Today's Progress: Started the portfolio. It is just the basic layout. 
+**Today's Progress**: Started the portfolio. It is just the basic layout. 
 
-Thoughts I look forward to tackling each section at a time. My goal is to finish on section each day at least (Hopefully more).
+**Thoughts** I look forward to tackling each section at a time. My goal is to finish on section each day at least (Hopefully more).
 
-Link(s) to work:http://codepen.io/Doveymd/full/OWJoVG/
+**Link(s) to work**:http://codepen.io/Doveymd/full/OWJoVG/
+
+
+### Day6:Jan 9 2017
+
+**Today's Progress**:  Got the buttons on portfolio to work!I used bootstraps buttons for the links to my social media. I used CSS for the text right before the buttons. Have to admit, I like the way they look.
+
+**Thoughts** Tomorrow I will play with the thumb nails. I am not even sure where to begin.
+
+**Link(s) to work**:http://codepen.io/Doveymd/full/OWJoVG/
