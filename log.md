@@ -50,3 +50,19 @@
 **Thoughts** Tomorrow I will play with the thumb nails. I am not even sure where to begin.
 
 **Link(s) to work**:http://codepen.io/Doveymd/full/OWJoVG/
+
+
+### Day7:Jan 10 2017
+
+**Today's Progress**:  Trying to code thumbnails using bootstrap. Getting my butt handed to me.
+
+**Thoughts** I will try again tomorrow. Maybe I will use a different sight for reference. 
+
+**Link(s) to work**:
+### Day6:Jan 9 2017
+
+**Today's Progress**:  Got the buttons on portfolio to work!I used bootstraps buttons for the links to my social media. I used CSS for the text right before the buttons. Have to admit, I like the way they look.
+
+**Thoughts** Tomorrow I will play with the thumb nails. I am not even sure where to begin.
+
+**Link(s) to work**:http://codepen.io/Doveymd/full/OWJoVG/
