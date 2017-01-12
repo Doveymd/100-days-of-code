@@ -59,10 +59,10 @@
 **Thoughts** I will try again tomorrow. Maybe I will use a different sight for reference. 
 
 **Link(s) to work**:
-### Day6:Jan 9 2017
+### Day8:Jan 11 2017
 
-**Today's Progress**:  Got the buttons on portfolio to work!I used bootstraps buttons for the links to my social media. I used CSS for the text right before the buttons. Have to admit, I like the way they look.
+**Today's Progress**:  Got thumbnails to work in firefox but not ie. I am going to set them aside until I am in clean up.
 
-**Thoughts** Tomorrow I will play with the thumb nails. I am not even sure where to begin.
+**Thoughts** Tomorrow we will mess with Getting the about me looking good. That at least should be easy.
 
-**Link(s) to work**:http://codepen.io/Doveymd/full/OWJoVG/
+**Link(s) to work**:http://codepen.io/Doveymd/full/ZLbQdp/
