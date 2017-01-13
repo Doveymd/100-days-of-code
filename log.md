@@ -66,3 +66,12 @@
 **Thoughts** Tomorrow we will mess with Getting the about me looking good. That at least should be easy.
 
 **Link(s) to work**:http://codepen.io/Doveymd/full/ZLbQdp/
+
+### Day9:Jan 12 2017
+
+**Today's Progress**:  Got thumbnails to work by changing to cloudisty. I also cleaned up the about me area.
+
+**Thoughts** Today was easier. Getting to write the about me section, really allowed me to examine what I wanted the world to know about me and my love of coding.
+
+**Link(s) to work**:http://codepen.io/Doveymd/full/ZLbQdp/
+
