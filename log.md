@@ -75,3 +75,11 @@
 
 **Link(s) to work**:http://codepen.io/Doveymd/full/ZLbQdp/
 
+### Day10:Jan 13 2017
+
+**Today's Progress**:  I AM DONE!!!
+
+**Thoughts** I overcame the obsitcles. It is getting easier to code, I am finding I really enjoy it. Have I found my niche?
+
+**Link(s) to work**:http://codepen.io/Doveymd/full/ZLbQdp/
+
