@@ -83,3 +83,13 @@
 
 **Link(s) to work**:http://codepen.io/Doveymd/full/ZLbQdp/
 
+### Day11:Jan 16 2017
+
+**Today's Progress**:  Learning Jave script. Still just getting the basics.
+
+**Thoughts** I am not sure I am loving Java. It does not seem to flow as easily as the other languages.
+
+**Link(s) to work**:http://codepen.io/Doveymd/full/ZLbQdp/
+
+
+
