@@ -91,5 +91,14 @@
 
 **Link(s) to work**:http://codepen.io/Doveymd/full/ZLbQdp/
 
+### Day12:Jan 17 2017
+
+**Today's Progress**:  Learning Jave script in class. Started a wordpress to create more exposure, develop a portfolio and to practice my HTML.
+
+**Thoughts** The deeper i get, the more the confusion comes. I am however getting there. I have decided to take another step in the process. I want to master the HTML :-)
+
+**Link(s) to work**:https://adlapee.wordpress.com
+
+
 
 
