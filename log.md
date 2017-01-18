@@ -99,6 +99,15 @@
 
 **Link(s) to work**:https://adlapee.wordpress.com
 
+### Day13:Jan 18 2017
+
+**Today's Progress**:  Built a small mad lib with jave. 
+
+**Thoughts** I was scared when I start the mad libs project. It was like I had no where to begin. But as I read over my notes, I became comfortable and just started programming. And believe or not.. it flowed. Yeah, should never had left the programming field. 
+
+
+**Link(s) to work**:https://adlapee.wordpress.com
+
 
 
 
